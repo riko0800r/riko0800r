@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riko0800r
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Lua, python3, c, c++
-- 💞️ I’m looking to collaborate on ZapperWord
+- 💞️ I’m looking to collaborate on FAR-99
 - 📫 How to reach me ...
 
 <!---
